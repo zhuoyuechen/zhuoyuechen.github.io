@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a first-year Ph.D. student at Sun Yat-sen University, supervised by <a href='https://kechao.me'>Kechao Cai. Prior to this, I received my Bachelor's degree in Communication Engineering from the School of Electronics and Communication Engineering at <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University in 2022.
+**Welcome!**
+---
+I am now a first-year Ph.D. student at Sun Yat-sen University, supervised by <a href='https://kechao.me'>Kechao Cai</a>. 
+Prior to this, I received my Bachelor's degree in Communication Engineering from the School of Electronics and Communication Engineering at <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> in 2022.
 
 My research interests include online learning algorithms design and computer networks, especially multipath transmission protocol. Recently, I have also been interested in quantum network design.
 
@@ -25,10 +28,10 @@ My research interests include online learning algorithms design and computer net
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our paper "Online Tile Dispatching Framework with Guarantees for 360-Degree Video Streaming in Wireless Networks" is accepted for publication on Wireless Networks (Springer Nature Wireless Networks).
-- *2024.07*: &nbsp;🎉🎉 Our paper "Merit-based Fair Combinatorial Semi-Bandit with Unrestricted Feedback Delays" is accepted by the 27th European Conference on Artificial Intelligence (ECAI 2024).
-- *2024.04*: &nbsp;🎉🎉 Our paper "DaMPS: A Deadline-aware Multipath Packet Scheduler for Mobile Applications" is accepted by IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2024).
-- *2023.03*: &nbsp;🎉🎉 Our paper "PCC Priority: A Priority-Aware Bandwidth Allocation Framework for QUIC" is accepted by IEEE Networking Letters (LNET)!
+- *2024.10*: &nbsp;🎉🎉 Our paper "Online Tile Dispatching Framework with Guarantees for 360-Degree Video Streaming in Wireless Networks" is accepted for publication on Wireless Networks (**Springer Nature Wireless Networks**).
+- *2024.07*: &nbsp;🎉🎉 Our paper "Merit-based Fair Combinatorial Semi-Bandit with Unrestricted Feedback Delays" is accepted by the 27th European Conference on Artificial Intelligence (**ECAI 2024**).
+- *2024.04*: &nbsp;🎉🎉 Our paper "DaMPS: A Deadline-aware Multipath Packet Scheduler for Mobile Applications" is accepted by IEEE International Conference on Mobile Ad-Hoc and Smart Systems (**MASS 2024**).
+- *2023.03*: &nbsp;🎉🎉 Our paper "PCC Priority: A Priority-Aware Bandwidth Allocation Framework for QUIC" is accepted by IEEE Networking Letters (**LNET**)!
 
 # 📝 Publications 
 

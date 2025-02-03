@@ -48,7 +48,7 @@ My research interests include online learning algorithms design and computer net
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-- [Online tile dispatching framework with guarantees for 360-degree video streaming in wireless networks](https://link.springer.com/article/10.1007/s11276-024-03871-6), Yingjie Zhao, Kechao Cai, Jinbei Zhang, **Zhuoyue Chen**, Ziqun Chen, **Wireless Networks**
+- [Online tile dispatching framework with guarantees for 360-degree video streaming in wireless networks](https://link.springer.com/article/10.1007/s11276-024-03871-6), Yingjie Zhao, Kechao Cai, Jinbei Zhang, **Zhuoyue Chen**, Ziqun Chen, **Wireless Networks**  
 
 - [Merit-based Fair Combinatorial Semi-Bandit with Unrestricted Feedback Delays](https://arxiv.org/abs/2407.15439), Ziqun Chen, Kechao Cai, **Zhuoyue Chen**, Jinbei Zhang, John C.S. Lui, **ECAI 2024**
 
@@ -62,7 +62,7 @@ My research interests include online learning algorithms design and computer net
 - *2021.10* Undergraduate National Scholarship, Sun Yat-sen University
 
 # 📖 Educations
-- *2024.09 - now*, Ph.D. of Electronic Information, Sun Yat-sen University, Shenzhen, China
+- *2024.09 - Now*, Ph.D. of Electronic Information, Sun Yat-sen University, Shenzhen, China
 - *2022.09 - 2024.09*, Master of Information and Communication Engineering, Sun Yat-sen University, Shenzhen, China
 - *2018.09 - 2022.07*, Bachelor of Communication Engineering, Sun Yat-sen University, Shenzhen, China
 

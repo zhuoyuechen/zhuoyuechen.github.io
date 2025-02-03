@@ -14,6 +14,9 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
+  
+  - title: "Teaching Assistant"
+    url: "/#-teaching-assistant"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"

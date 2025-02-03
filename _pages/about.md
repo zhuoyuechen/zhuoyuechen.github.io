@@ -66,6 +66,11 @@ My research interests include online learning algorithms design and computer net
 - *2022.09 - 2024.09*, Master of Information and Communication Engineering, Sun Yat-sen University, Shenzhen, China
 - *2018.09 - 2022.07*, Bachelor of Communication Engineering, Sun Yat-sen University, Shenzhen, China
 
+# 🎓 Teaching Assistant
+- Advanced Programming in C++, Fall, 2024, SYSU
+- Computer Networking, Spring, 2024, SYSU
+- Advanced Programming in C++, Fall, 2023, SYSU
+- Communication Networks, Spring, 2023, SYSU
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)

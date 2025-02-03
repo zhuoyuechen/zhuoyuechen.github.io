@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Welcome!**
----
+# Welcome!
+
 I am now a first-year Ph.D. student at Sun Yat-sen University, supervised by <a href='https://kechao.me'>Kechao Cai</a>. 
 Prior to this, I received my Bachelor's degree in Communication Engineering from the School of Electronics and Communication Engineering at <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> in 2022.
 

@@ -28,6 +28,7 @@ My research interests include online learning algorithms design and computer net
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our paper "OLMS: A Flexible Online Learning Multi-path Scheduling Framework" is accepted for publication on IEEE Transactions on Network Science and Engineering (**IEEE TNSE**).
 - *2024.10*: &nbsp;🎉🎉 Our paper "Online Tile Dispatching Framework with Guarantees for 360-Degree Video Streaming in Wireless Networks" is accepted for publication on Wireless Networks (**Springer Nature Wireless Networks**).
 - *2024.07*: &nbsp;🎉🎉 Our paper "Merit-based Fair Combinatorial Semi-Bandit with Unrestricted Feedback Delays" is accepted by the 27th European Conference on Artificial Intelligence (**ECAI 2024**).
 - *2024.04*: &nbsp;🎉🎉 Our paper "DaMPS: A Deadline-aware Multipath Packet Scheduler for Mobile Applications" is accepted by IEEE International Conference on Mobile Ad-Hoc and Smart Systems (**MASS 2024**).
@@ -48,6 +49,8 @@ My research interests include online learning algorithms design and computer net
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [OLMS: A Flexible Online Learning Multi-path Scheduling Framework](https://ieeexplore.ieee.org/), Kechao Cai, **Zhuoyue Chen**, Jinbei Zhang, John C.S. Lui, **IEEE TNSE**  
+
 - [Online tile dispatching framework with guarantees for 360-degree video streaming in wireless networks](https://link.springer.com/article/10.1007/s11276-024-03871-6), Yingjie Zhao, Kechao Cai, Jinbei Zhang, **Zhuoyue Chen**, Ziqun Chen, **Wireless Networks**  
 
 - [Merit-based Fair Combinatorial Semi-Bandit with Unrestricted Feedback Delays](https://arxiv.org/abs/2407.15439), Ziqun Chen, Kechao Cai, **Zhuoyue Chen**, Jinbei Zhang, John C.S. Lui, **ECAI 2024**
@@ -67,6 +70,7 @@ My research interests include online learning algorithms design and computer net
 - *2018.09 - 2022.07*, Bachelor of Communication Engineering, Sun Yat-sen University, Shenzhen, China
 
 # 🎓 Teaching Assistant
+- Computer Networking, Spring, 2025, SYSU
 - Advanced Programming in C++, Fall, 2024, SYSU
 - Computer Networking, Spring, 2024, SYSU
 - Advanced Programming in C++, Fall, 2023, SYSU

@@ -19,15 +19,17 @@ redirect_from:
 
 # Welcome!
 
-I am now a first-year Ph.D. student at Sun Yat-sen University, supervised by <a href='https://kechao.me'>Kechao Cai</a>. 
+I am now a second-year Ph.D. student at Sun Yat-sen University, supervised by <a href='https://kechao.me'>Kechao Cai</a>. 
 Prior to this, I received my Bachelor's degree in Communication Engineering from the School of Electronics and Communication Engineering at <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> in 2022.
 
 My research interests include online learning algorithms design and computer networks, especially multipath transmission protocol. Recently, I have also been interested in quantum network design.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our paper "Fidelity-Threshold Online Path Selection and Request Scheduling in Quantum Networks" is accepted by IEEE International Conference on Computer Communications (**IEEE INFOCOM 2026**).
+- *2025.11*: &nbsp;🎉🎉 Our paper "Optimizing Satellite-to-Ground Station Pair Assignments Using Hybrid Links for Long-Distance Quantum Entanglement Distribution" is accepted for publication on IEEE Communications Letters (**IEEE CL**).
+- *2025.08*: &nbsp;🎉🎉 Our paper "OIC: An Online Incentivized and Context-Aware Scheme for Task Assignment" is accepted by 17th International Conference on Wireless Communications and Signal Processing (**WCSP 2025**).
+- *2025.03*: &nbsp;🎉🎉 Our project "Quantum-Classical Hybrid Online Learning Algorithms and Their Noise Robustness Optimization" is funded by the Chinese Physical Society - Quantum Technology Yangtze River Delta Industrial Innovation Center - MindSpore Quantum Academic Award Fund.
 - *2025.02*: &nbsp;🎉🎉 Our paper "OLMS: A Flexible Online Learning Multi-path Scheduling Framework" is accepted for publication on IEEE Transactions on Network Science and Engineering (**IEEE TNSE**).
 - *2024.10*: &nbsp;🎉🎉 Our paper "Online Tile Dispatching Framework with Guarantees for 360-Degree Video Streaming in Wireless Networks" is accepted for publication on Wireless Networks (**Springer Nature Wireless Networks**).
 - *2024.07*: &nbsp;🎉🎉 Our paper "Merit-based Fair Combinatorial Semi-Bandit with Unrestricted Feedback Delays" is accepted by the 27th European Conference on Artificial Intelligence (**ECAI 2024**).
@@ -49,7 +51,13 @@ My research interests include online learning algorithms design and computer net
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-- [OLMS: A Flexible Online Learning Multi-path Scheduling Framework](https://ieeexplore.ieee.org/), Kechao Cai, **Zhuoyue Chen**, Jinbei Zhang, John C.S. Lui, **IEEE TNSE**  
+- [Fidelity-Threshold Online Path Selection and Request Scheduling in Quantum Networks](https://ieeexplore.ieee.org), Zhuoyue Chen, Kechao Cai, Wenkang Cen, Jinbei Zhang, Jiancheng Ye, **IEEE INFOCOM 2026**  
+
+- [Optimizing Satellite-to-Ground Station Pair Assignments Using Hybrid Links for Long-Distance Quantum Entanglement Distribution](https://ieeexplore.ieee.org/document/11270924), Zhenhui Yang, Kechao Cai, **Zhuoyue Chen**, Jinbei Zhang, **IEEE Communications Letters**  
+
+- [OIC: An Online Incentivized and Context-Aware Scheme for Task Assignment](https://ieeexplore.ieee.org/document/11352135), Jiamei Ji, Kechao Cai, **Zhuoyue Chen**, Jinbei Zhang, **WCSP 2025**  
+
+- [OLMS: A Flexible Online Learning Multi-path Scheduling Framework](https://ieeexplore.ieee.org/document/10908896), Kechao Cai, **Zhuoyue Chen**, Jinbei Zhang, John C.S. Lui, **IEEE TNSE**  
 
 - [Online tile dispatching framework with guarantees for 360-degree video streaming in wireless networks](https://link.springer.com/article/10.1007/s11276-024-03871-6), Yingjie Zhao, Kechao Cai, Jinbei Zhang, **Zhuoyue Chen**, Ziqun Chen, **Wireless Networks**  
 
@@ -70,6 +78,7 @@ My research interests include online learning algorithms design and computer net
 - *2018.09 - 2022.07*, Bachelor of Communication Engineering, Sun Yat-sen University, Shenzhen, China
 
 # 🎓 Teaching Assistant
+- Computer Network Lab Course, Spring, 2026, SYSU
 - Computer Networking, Spring, 2025, SYSU
 - Advanced Programming in C++, Fall, 2024, SYSU
 - Computer Networking, Spring, 2024, SYSU
@@ -80,5 +89,5 @@ My research interests include online learning algorithms design and computer net
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2025.08 - 2025.09*, Network Technology Lab, Huawei, Shenzhen, China.

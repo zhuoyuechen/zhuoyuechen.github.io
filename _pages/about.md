@@ -26,6 +26,8 @@ My research interests include online learning algorithms design and computer net
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our paper "On Deadline-aware and Cost-aware Multipath Packet Scheduling in Mobile Applications" is accepted for publication in IEEE Transactions on Mobile Computing (**IEEE TMC**).
+- *2026.08*: &nbsp;🎉🎉 Our paper "Distributed Fidelity-Constrained Entanglement Routing with Link Configuration in Quantum Networks" is accepted by the IEEE Global Communications Conference (**IEEE GLOBECOM 2026**).
 - *2025.12*: &nbsp;🎉🎉 Our paper "Fidelity-Threshold Online Path Selection and Request Scheduling in Quantum Networks" is accepted by IEEE International Conference on Computer Communications (**IEEE INFOCOM 2026**).
 - *2025.11*: &nbsp;🎉🎉 Our paper "Optimizing Satellite-to-Ground Station Pair Assignments Using Hybrid Links for Long-Distance Quantum Entanglement Distribution" is accepted for publication on IEEE Communications Letters (**IEEE CL**).
 - *2025.08*: &nbsp;🎉🎉 Our paper "OIC: An Online Incentivized and Context-Aware Scheme for Task Assignment" is accepted by 17th International Conference on Wireless Communications and Signal Processing (**WCSP 2025**).
@@ -51,6 +53,10 @@ My research interests include online learning algorithms design and computer net
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [On Deadline-aware and Cost-aware Multipath Packet Scheduling in Mobile Applications](https://ieeexplore.ieee.org), **Zhuoyue Chen**, Kechao Cai, Jinbei Zhang, John C.S. Lui, **IEEE Transactions on Mobile Computing, 2026**
+
+- [Distributed Fidelity-Constrained Entanglement Routing with Link Configuration in Quantum Networks](https://ieeexplore.ieee.org), **Zhuoyue Chen**, Kechao Cai, Jinbei Zhang, **IEEE GLOBECOM 2026**
+
 - [Fidelity-Threshold Online Path Selection and Request Scheduling in Quantum Networks](https://ieeexplore.ieee.org), Zhuoyue Chen, Kechao Cai, Wenkang Cen, Jinbei Zhang, Jiancheng Ye, **IEEE INFOCOM 2026**  
 
 - [Optimizing Satellite-to-Ground Station Pair Assignments Using Hybrid Links for Long-Distance Quantum Entanglement Distribution](https://ieeexplore.ieee.org/document/11270924), Zhenhui Yang, Kechao Cai, **Zhuoyue Chen**, Jinbei Zhang, **IEEE Communications Letters**  
